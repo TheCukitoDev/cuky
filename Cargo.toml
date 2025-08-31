@@ -2,5 +2,8 @@
 name = "cuky"
 version = "0.1.0"
 edition = "2024"
+description = "The future most advanced vectorial database."
+license = "MIT"
+authors = ["TheCukitoDev"]
 
 [dependencies]
